@@ -42,7 +42,7 @@ rhcsa-practice/
 ✅ User & Group Management (adduser, passwd, usermod)
 
 Add a new user
- sudo adduser username
+sudo adduser username
 
 # Set or change user password
 sudo passwd username
