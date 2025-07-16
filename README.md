@@ -1,4 +1,3 @@
-
 # RHCSA Practice Repository 🇧🇩
 
 Welcome to my **Red Hat Certified System Administrator (RHCSA)** practice repo!  

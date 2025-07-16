@@ -1,0 +1,14 @@
+# Logs
+*.log
+
+# Swap files
+*.swp
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# VSCode settings folder
+.vscode/
