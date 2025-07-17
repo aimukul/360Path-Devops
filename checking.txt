@@ -1,0 +1,8 @@
+#!/bin/bash
+myfile=file.txt
+if [ -f "$myfile" ];
+then
+echo "$myfile exists"
+else
+echo "It's does't exist at all"
+fi
