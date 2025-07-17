@@ -16,6 +16,6 @@ Here you'll find my hands-on tasks, command references, and configuration files.
 - [Firewalld Configuration](firewalld-config.md)
 - [SELinux Basics](selinux.md)
 - [Scheduling (cron, at)](scheduling.md)
-- [Systemd & Services](Managing Services and Processes.md)
+- [Managing Services and Processes](Services-Processes.md)
 - [Bash Scripting](bash-scripting.md)
 - [tar, gzip, bzip2 Commands](tar-gzip.md)
